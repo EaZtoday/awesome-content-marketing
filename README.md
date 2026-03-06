@@ -7,20 +7,26 @@
 [![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) &nbsp; 
 [![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
 
-> A curated list of tools, platforms, strategies, and resources for **content marketing**, including content creation, distribution, analytics, and optimization.
+> A curated list of tools, platforms, strategies, and resources for **content marketing** and **content strategy**. Covers content creation, distribution, analytics, SEO optimization, **digital marketing** workflows, editorial planning, audience engagement, and brand storytelling to help marketers build and scale effective content programs.
 
 ## Contents
 
 - [General Resources](#general-resources)
 - [Content Creation Tools](#content-creation-tools)
+- [AI Content Tools](#ai-content-tools)
 - [Content Distribution Platforms](#content-distribution-platforms)
+- [Newsletter Platforms](#newsletter-platforms)
+- [Content Repurposing Tools](#content-repurposing-tools)
 - [SEO and Content Optimization](#seo-and-content-optimization)
 - [Analytics and Tracking](#analytics-and-tracking)
 - [Content Marketing Strategies](#content-marketing-strategies)
+- [Content Strategy Frameworks](#content-strategy-frameworks)
 - [Best Practices and Guides](#best-practices-and-guides)
 - [Open-Source Tools](#open-source-tools)
 - [Educational Resources](#educational-resources)
+- [Podcasts](#podcasts)
 - [Community and Forums](#community-and-forums)
+- [Related Lists](#related-lists)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -38,6 +44,13 @@
 - **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 - **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
 
+## AI Content Tools
+
+- **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, marketing copy, and social media.
+- **[Copy.ai](https://www.copy.ai/)** - An AI writing tool for generating marketing copy, blog content, and product descriptions.
+- **[Writer.com](https://writer.com/)** - An AI writing platform built for teams, with brand voice and style guide enforcement.
+- **[ChatGPT](https://chat.openai.com/)** - OpenAI's conversational AI, widely used for brainstorming, drafting, and editing content.
+
 ## Content Distribution Platforms
 
 - **[Medium](https://medium.com/)** - A platform for publishing and distributing written content.
@@ -45,6 +58,19 @@
 - **[LinkedIn Articles](https://www.linkedin.com/)** - A professional platform for distributing thought leadership content.
 - **[Buffer](https://buffer.com/)** - A tool for scheduling and sharing content on social media.
 - **[Hootsuite](https://hootsuite.com/)** - A social media management tool for distributing and tracking content.
+
+## Newsletter Platforms
+
+- **[Substack](https://substack.com/)** - A newsletter platform for independent writers to publish and monetize content.
+- **[Beehiiv](https://www.beehiiv.com/)** - A newsletter platform with built-in growth tools, analytics, and monetization features.
+- **[ConvertKit](https://convertkit.com/)** - An email marketing and newsletter platform designed for creators.
+- **[Ghost](https://ghost.org/)** - An open-source platform for newsletters, memberships, and content publishing.
+
+## Content Repurposing Tools
+
+- **[Repurpose.io](https://repurpose.io/)** - A tool for automatically republishing content across multiple platforms.
+- **[Descript](https://www.descript.com/)** - An all-in-one audio and video editor that makes it easy to repurpose podcast and video content.
+- **[Opus Clip](https://www.opus.pro/)** - An AI-powered tool for turning long-form videos into short, shareable clips.
 
 ## SEO and Content Optimization
 
@@ -70,6 +96,12 @@
 - **[Content Calendars](https://coschedule.com/marketing-calendar)** - Tools and templates for planning and scheduling content.
 - **[User-Generated Content](https://sproutsocial.com/insights/user-generated-content/)** - Strategies for encouraging and leveraging user-generated content.
 
+## Content Strategy Frameworks
+
+- **Hub & Spoke Model** - Create a central "hub" page for a broad topic and link out to detailed "spoke" articles covering subtopics, driving internal linking and topical authority.
+- **Pillar Content Strategy** - Develop comprehensive, long-form pillar pages that serve as definitive guides, supported by shorter related articles that link back to the pillar.
+- **Topic Clusters** - Organize content into clusters around a core topic, using a pillar page and interlinked cluster content to signal expertise to search engines and improve SEO.
+
 ## Best Practices and Guides
 
 - **[Content Marketing Framework](https://contentmarketinginstitute.com/framework/)** - A guide to building a content marketing strategy.
@@ -94,13 +126,21 @@
 - **[Neil Patel Blog](https://neilpatel.com/blog/)** - Expert tips and insights on content marketing and SEO.
 - **[Books on Content Marketing](https://www.goodreads.com/)** - Popular books like *Everybody Writes* by Ann Handley.
 
+## Podcasts
+
+- **[Content Inc. with Joe Pulizzi](https://www.joepulizzi.com/podcast/)** - Insights on building a content-first business from the founder of Content Marketing Institute.
+- **[Marketing Over Coffee](https://www.marketingovercoffee.com/)** - A weekly podcast covering both classic and new marketing tactics, including content strategy.
+- **[Everyone Hates Marketers](https://www.everyonehatesmarketers.com/)** - A no-fluff podcast focused on honest, actionable marketing advice.
+
 ## Community and Forums
 
 - **[r/ContentMarketing](https://www.reddit.com/r/content_marketing/)** - A subreddit for discussing content marketing strategies and tools.
-- **[Inbound.org](https://inbound.org/)** - A community for sharing and discussing inbound marketing strategies.
 - **[Content Marketing World Community](https://contentmarketinginstitute.com/events/content-marketing-world/)** - A forum for networking with content marketers.
 - **[LinkedIn Content Marketing Groups](https://www.linkedin.com/)** - Professional groups for sharing and discussing content marketing tips.
-- **[Slack: Content Marketers](https://contentmarketers.slack.com/)** - A Slack community for content marketing professionals.
+
+## Related Lists
+
+- **[Awesome SEO](https://github.com/awesomelistsio/awesome-seo)** - A curated list of SEO tools, resources, and strategies.
 
 ## Contribute
 
