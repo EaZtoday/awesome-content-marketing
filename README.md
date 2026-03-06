@@ -26,6 +26,7 @@
 - [Educational Resources](#educational-resources)
 - [Podcasts](#podcasts)
 - [Community and Forums](#community-and-forums)
+- [Case Studies & Real-World Examples](#case-studies--real-world-examples)
 - [Related Lists](#related-lists)
 - [Contributing](#contributing)
 - [License](#license)
@@ -138,9 +139,14 @@
 - **[Content Marketing World Community](https://contentmarketinginstitute.com/events/content-marketing-world/)** - A forum for networking with content marketers.
 - **[LinkedIn Content Marketing Groups](https://www.linkedin.com/)** - Professional groups for sharing and discussing content marketing tips.
 
+## Case Studies & Real-World Examples
+
+- **[Zen Books — Content Strategy for Niche Services](https://zen.books/)** - A real estate investor bookkeeping service using hub-and-spoke content architecture: strategy-specific pillar pages (Buy & Hold, Fix & Flip, Wholesale) with location-specific spoke pages, FAQ-rich content for featured snippets, and pain-point-driven copywriting that converts.
+
 ## Related Lists
 
-- **[Awesome SEO](https://github.com/awesomelistsio/awesome-seo)** - A curated list of SEO tools, resources, and strategies.
+- **[Awesome SEO](https://github.com/EaZtoday/awesome-seo)** - A curated list of SEO tools, resources, and strategies.
+- **[Marketing Skills for Claude Code](https://github.com/EaZtoday/marketingskills)** - 26 AI agent skills for marketing automation including content strategy, copywriting, and CRO.
 
 ## Contribute
 
