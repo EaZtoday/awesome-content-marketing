@@ -17,7 +17,9 @@
 - [Content Distribution Platforms](#content-distribution-platforms)
 - [Newsletter Platforms](#newsletter-platforms)
 - [Content Repurposing Tools](#content-repurposing-tools)
+- [Video Content Marketing](#video-content-marketing)
 - [SEO and Content Optimization](#seo-and-content-optimization)
+- [Content Audit & Performance](#content-audit--performance)
 - [Analytics and Tracking](#analytics-and-tracking)
 - [Content Marketing Strategies](#content-marketing-strategies)
 - [Content Strategy Frameworks](#content-strategy-frameworks)
@@ -73,6 +75,13 @@
 - **[Descript](https://www.descript.com/)** - An all-in-one audio and video editor that makes it easy to repurpose podcast and video content.
 - **[Opus Clip](https://www.opus.pro/)** - An AI-powered tool for turning long-form videos into short, shareable clips.
 
+## Video Content Marketing
+
+- **[Wistia](https://wistia.com/)** - A video hosting platform built for marketers with built-in analytics, SEO-friendly embedding, lead generation tools, and A/B testing.
+- **[Vidyard](https://www.vidyard.com/)** - Video hosting and analytics for B2B marketing, with personalized video messaging, viewer tracking, and CRM integrations.
+- **[TubeBuddy](https://www.tubebuddy.com/)** - YouTube optimization toolkit for keyword research, tag suggestions, A/B testing thumbnails, and bulk processing video metadata.
+- **[VidIQ](https://vidiq.com/)** - YouTube analytics and optimization tool providing keyword research, competitor tracking, and content strategy recommendations.
+
 ## SEO and Content Optimization
 
 - **[Yoast SEO](https://yoast.com/)** - A WordPress plugin for optimizing content for search engines.
@@ -80,6 +89,13 @@
 - **[Surfer SEO](https://surferseo.com/)** - A tool for optimizing content based on data-driven recommendations.
 - **[Ahrefs](https://ahrefs.com/)** - A suite of tools for content marketing and SEO.
 - **[AnswerThePublic](https://answerthepublic.com/)** - A tool for finding popular content topics and questions.
+
+## Content Audit & Performance
+
+- **[Screaming Frog](https://www.screamingfrog.co.uk/)** - Website crawler for auditing content at scale, identifying thin pages, missing meta descriptions, duplicate content, and broken links.
+- **[ContentKing](https://www.contentkingapp.com/)** - Real-time SEO auditing and content change monitoring platform that alerts you to content issues before they impact rankings.
+- **[Clearscope](https://www.clearscope.io/)** - AI-powered content optimization platform that scores existing content against top-ranking competitors and identifies improvement opportunities.
+- **[MarketMuse](https://www.marketmuse.com/)** - Content intelligence platform for auditing topic coverage, identifying content gaps, and prioritizing content updates based on competitive analysis.
 
 ## Analytics and Tracking
 
